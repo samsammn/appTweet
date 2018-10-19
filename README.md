@@ -1,4 +1,4 @@
-# Tweet Python
+# <center><font color="red">Tweet Python</font></center>
 
 Aplikasi ini hanya dibuat sederhana dengan python yang menggunakan sistem file untuk penyimpanannya. Silahkan kembangkan lagi aplikasi sederhana ini, karena aplikasi ini hanya tugas dan latihan dalam belajar backend dengan python.
 
