@@ -1,0 +1,10 @@
+{
+    "sam@gmail.com": [
+        "ini tweeet pertama ku, alhamdulillah lancar"
+    ],
+    "jeff@gmail.com": [],
+    "cecep@gmail.com": [
+        "ini tweeet kedua ku, alhamdulillah lancar",
+        "ini tweeet ketiga ku, alhamdulillah lancar"
+    ]
+}

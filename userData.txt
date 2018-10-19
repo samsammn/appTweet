@@ -1,0 +1,25 @@
+[
+    {
+        "username": "sams",
+        "email": "sam@gmail.com",
+        "password": "123",
+        "fullname": "Sam Sesterdamp",
+        "tweet": [
+            "ini tweeet pertama ku, alhamdulillah lancar"
+        ]
+    },
+    {
+        "username": "jeff",
+        "email": "jeff@gmail.com",
+        "password": "123",
+        "fullname": "Jeff Sesterdamp",
+        "tweet": []
+    },
+    {
+        "username": "cecep",
+        "email": "cecep@gmail.com",
+        "password": "123",
+        "fullname": "Cep Sesterdamp",
+        "tweet": []
+    }
+]
