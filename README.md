@@ -1,5 +1,7 @@
 # Tweet Python dari Semi
 
+## Saya nambah branch ni
+
 Aplikasi ini hanya dibuat sederhana dengan python yang menggunakan sistem file untuk penyimpanannya. Silahkan kembangkan lagi aplikasi sederhana ini, karena aplikasi ini hanya tugas dan latihan dalam belajar backend dengan python.
 
 Untuk selanjutnya mungkin bisa membuat sebuah tweeter yang dibuat dengan frontend nya juga, dan mamakai database untuk penyimpanannya.
