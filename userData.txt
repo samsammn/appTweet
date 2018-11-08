@@ -21,5 +21,138 @@
         "password": "123",
         "fullname": "Cep Sesterdamp",
         "tweet": []
+    },
+    {
+        "username": "yulian",
+        "email": "yuli@gmail.com",
+        "password": "123",
+        "fullname": "Yuli Agustin",
+        "tweet": []
+    },
+    {
+        "username": "asda",
+        "email": "safs",
+        "password": "123",
+        "fullname": "da",
+        "tweet": []
+    },
+    {
+        "username": "sdfsdf",
+        "email": "sdfsdf",
+        "password": "123",
+        "fullname": "dfdfd",
+        "tweet": []
+    },
+    {
+        "username": "asdasd",
+        "email": "adssdf",
+        "password": "321",
+        "fullname": "fggggad",
+        "tweet": []
+    },
+    {
+        "username": "sdfshgdf",
+        "email": "kghjgh",
+        "password": "sdfsdf",
+        "fullname": "sdfhhj",
+        "tweet": []
+    },
+    {
+        "username": "vbvnvn",
+        "email": "cbc",
+        "password": "hfh",
+        "fullname": "nbm",
+        "tweet": []
+    },
+    {
+        "username": "nb",
+        "email": "nbv",
+        "password": "kj",
+        "fullname": "mn",
+        "tweet": []
+    },
+    {
+        "username": "lk",
+        "email": "lk",
+        "password": "kj",
+        "fullname": "lk",
+        "tweet": []
+    },
+    {
+        "username": "oikh",
+        "email": "kjh",
+        "password": "kjh",
+        "fullname": "oi",
+        "tweet": []
+    },
+    {
+        "username": "kjhk",
+        "email": "kjjjjjj",
+        "password": "kjh",
+        "fullname": "oikjh",
+        "tweet": []
+    },
+    {
+        "username": "dfdfg",
+        "email": "fgdgdfgdf",
+        "password": "dhfdf",
+        "fullname": "hfdfgd",
+        "tweet": []
+    },
+    {
+        "username": "dfdfgdd",
+        "email": "fgdgdfgdfsdfs",
+        "password": "dfd",
+        "fullname": "hfdfgd",
+        "tweet": []
+    },
+    {
+        "username": "sfdsdkjnkn",
+        "email": "sdfns",
+        "password": "sdsfs",
+        "fullname": "sdf",
+        "tweet": []
+    },
+    {
+        "username": "sfdsdkjnkn",
+        "email": "sdfnssd",
+        "password": "sdf",
+        "fullname": "sdf",
+        "tweet": []
+    },
+    {
+        "username": "sfdsdkjnkn",
+        "email": "sdfnssd33d",
+        "password": "sdf",
+        "fullname": "sdf",
+        "tweet": []
+    },
+    {
+        "username": "sfdsdkjnkn",
+        "email": "sdfnssd33d2d",
+        "password": "df",
+        "fullname": "sdf",
+        "tweet": []
+    },
+    {
+        "username": "",
+        "email": "",
+        "password": "",
+        "fullname": "",
+        "tweet": []
+    },
+    {
+        "username": "sdf",
+        "email": "sdgsdg",
+        "password": "sdf",
+        "fullname": "sdf",
+        "tweet": []
+    },
+    {
+        "username": "sdf",
+        "email": "sdgsdgee",
+        "password": "sdf",
+        "fullname": "sdf",
+        "tweet": []
     }
 ]
